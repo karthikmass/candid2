@@ -1,0 +1,128 @@
+@media screen and (max-width: 1220px) {
+.dankovteam-wrapper-boxed {width: 100%;}
+}
+@media screen and (max-width: 1200px) {
+    .tp-banner-container { height: 100% !important }
+    .animated { -webkit-animation: 0 !important }
+    #wrapper { width: 100% !important }
+    nav {
+        width: 100% !important;
+        left: auto !important;
+    }
+    .promo-text-blog:first-child { margin-top: 50px }
+    .med-blog-naz { margin-top: 25px }
+    .clients div span {
+        float: none;
+        display: table;
+        margin: auto;
+    }
+    .testi-slider .flex-control-nav { bottom: -30px }
+    .twitter-footer .tweet_list li {
+        line-height: 20px;
+        margin-top: 20px;
+        overflow: hidden;
+    }
+}
+
+
+@media (max-width: 768px){
+    .container-in-container {width: 100%;}
+    .container-in-container-inner {width: 100%;padding-left: 15px;padding-right: 15px;}
+    .post-thumbnail img {height: 150px;}
+    .cbp img {height: auto }
+    .wpb_column > .wpb_wrapper > *:last-child {margin-bottom: 30px !important}
+    .stats-block, .wpb_row .wpb_column .wpb_wrapper .stats-block {margin-bottom: 30px !important;}
+    .wpmenucartli.wpmenucart-display-standard {display: none;}
+}
+@media (max-width: 585px){
+    .dankovteam-shortcode-posts-box .blog-main {width: 100%;margin-bottom: 30px;}
+    .dankovteam-shortcode-posts-box .blog-main:last-child {margin-bottom: 0px;}
+    .post-thumbnail img {height: auto;}
+    .call-now {
+    z-index:2;
+    position: fixed;
+    bottom: 28%;
+    float: right;
+    right: -1%;
+    display: block !important;
+    z-index:1;
+    }
+    #feedback-tab{
+        display:none;
+    }
+}
+@media (min-width: 768px) and (max-width: 992px){
+    .container-in-container {width: 750px;}
+    .container-in-container-inner {width: 750px;}
+    .testimonials-name h4 {width: 100%;}
+    .post-thumbnail img {height: 150px;}
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+    .container-in-container {width: 970px;}
+    .container-in-container-inner {width: 970px;}
+    .cbp img {height: auto;}
+    .post-thumbnail img {height: 200px;}
+}
+
+@media (min-width: 1200px) {
+    .container-in-container{width: 1170px;}
+    .container-in-container-inner {width: 1170px;}
+}
+
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+    .promo-paragraph { padding: 0 30px }
+    .testi-slider .flex-control-paging li a {
+        width: 13px;
+        height: 13px;
+    }
+    .blog-name {
+        float: none;
+        margin-top: 3px;
+        margin-left: 0px;
+        text-align: center;
+    }
+    .blog-desc {
+        float: none;
+        margin-left: 0px;
+        font-size: 12px;
+        text-align: center;
+    }
+    .blog-icon i {
+        font-size: 35px;
+        border-right: none;
+        padding-right: 0px;
+    }
+    .blog-icon {
+        float: none;
+        text-align: center;
+    }
+    .cl-blog-text {
+        width: 100%;
+        margin-left: 0px;
+    }
+    .btn-blog { margin-top: 59px }
+    .footer { height: auto }
+    .testi-text { padding: 0 35px }
+    .prl-1 {
+        background: url(../images/parallax.jpg)  100% !important;
+        min-height: 310px;
+        height: auto;
+    }
+    .prl-2 {
+        background: url(../images/parallax2.html)  100% !important;
+        min-height: 300px;
+        height: auto;
+    }
+    .prl-3 {
+        background: url(../images/parallax3.html)  100% !important;
+        min-height: 70px;
+        height: auto;
+    }
+    .cbp-l-inline-left { width: 40% !important }
+    .cbp-l-inline-right { width: 56% !important }
+    .about-name { margin-top: 15px }
+
+    .woocommerce ul.products li.product, .woocommerce-page ul.products li.product {width: 22.60%;}
+    .woocommerce ul.products li.last, .woocommerce-page ul.products li.last {margin-right: 0;}
+    .woocommerce .related ul li.product, .woocommerce .related ul.products li.product, .woocommerce .upsells.products ul li.product, .woocommerce .upsells.products ul.products li.product, .woocommerce-page .related ul li.product, .woocommerce-page .related ul.products li.product, .woocommerce-page .upsells.products ul li.product, .woocommerce-page .upsells.products ul.p
