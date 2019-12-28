@@ -209,7 +209,7 @@ nav {
     left: 0px;
     z-index: 99999 !important;
     width: 100%;
-    background: #510200;
+    background: #4f9dce;
 }
 .sticky {
     position: fixed;
@@ -1217,7 +1217,7 @@ nav.sticky ul li a:before { content: '' }
 }
 .footer-widget ul li {
     padding: 7px 0;
-    border-bottom: 1px solid #555;
+    border-bottom: 1px solid #fff;
 }
 .footer-widget ul li a { display: inline-block }
 .footer-widget input {
@@ -3186,7 +3186,7 @@ min-height: 25px;
 [8.0 Footer]
 */
 .footer {
-    background: #530202;
+    background: #1f3746;
     min-height: 300px;
     max-height: 100%;
     width: 100%;
@@ -3543,7 +3543,7 @@ ul.switcher-op-selectors li  a {
 }
 
 /* Transparent menu layout related CSS */
-#nav-container nav.sticky {background: rgb(84,0,0) !important;}
+#nav-container nav.sticky {background: #4f9dce !important;}
 .tp-caption.mediumlightwhitecustom,.mediumlightwhitecustom{font-size:30px;line-height:36px;font-weight:300;font-family:"Roboto";color:#fff;text-decoration:none;background-color:transparent;padding:0px 0px 0px 0px;border-width:0px;border-color:rgb(255,214,88);border-style:none}.tp-caption.largeborder,.largeborder{width:300px;background-color:transparent;text-decoration:none;border-width:1px 0px 0px 0px;border-color:rgb(255,255,255) rgb(34,34,34) rgb(34,34,34) rgb(34,34,34);border-style:solid none none none}.tp-caption.largeboldwhitecustom,.largeboldwhitecustom{
 	font-size:30px;
 	line-height:60px;
